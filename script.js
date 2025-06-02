@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Mày chắc chưa?",
-    "Chắc chắn chưa??",
-    "Không mua thật à?",
+    "Chị chắc chưa?",
+    "Chị chắc chắn chưa??",
+    "Chị không mua thật à?",
     "Năn nỉ mà",
-    "Suy nghĩ kĩ đi mà!",
-    "Mày mà không mua là tao giãy cho mày coi...",
-    "Tao muốn ăn bánh...",
+    "Suy nghĩ kĩ đi mà chị!",
+    "Chị mà không mua là em giãy cho chị coi...",
+    "Em muốn uống trà sữa...",
     "Đi màaaaaa...",
-    "Mua đi, tao thèm bánh lắm...",
-    "Nói chứ tao năn nỉ thiệt á, mày nỡ để t giãy ư?"
+    "Mua đi, em thèm trà sữa lắm...",
+    "Nói chứ em năn nỉ thiệt á, chị nỡ để em giãy ư?"
 ];
 
 let messageIndex = 0;
